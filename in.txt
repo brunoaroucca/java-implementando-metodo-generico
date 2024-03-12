@@ -1,0 +1,5 @@
+Computer,890.50
+Iphone X,910.00
+Tablet,550.00
+Notebook,1522.00
+Carregado de celular,120.00
